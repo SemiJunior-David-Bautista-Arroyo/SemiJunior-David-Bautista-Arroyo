@@ -23,7 +23,7 @@
 
 ## Contact Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/david-bautista-arroyo-513123305/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:davidbaar07@example.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:davidbaar07@gmail.com)
 <br>
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gewebsolutions.com/)
 
