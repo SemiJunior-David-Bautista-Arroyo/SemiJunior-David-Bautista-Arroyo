@@ -13,7 +13,7 @@
 </div>
 
 ## Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet,tailwind,react,php,dart,flutter,mysql,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,php,cs,dotnet,tailwind,react,vite,dart,flutter,mysql,postgres,sqlite&perline=5)](https://skillicons.dev)
 
 
 
